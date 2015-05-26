@@ -9,7 +9,6 @@ namespace BasicDemo
 {
 
     /// <summary>
-    /// Sources:    http://dgondotnet.blogspot.dk/2013/08/my-last-console-application-manyconsole.html
     ///                 
     /// </summary>
     class Program
